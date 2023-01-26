@@ -5,20 +5,20 @@
 
 # Setup
 
-``
-dotnet add package Microsoft.NET.Test.Sdk 
-dotnet add package xunit 
-dotnet add package xunit.runner.visualstudio 
-dotnet add package coverlet.collector 
-dotnet add package Moq
-``
+
+- dotnet add package Microsoft.NET.Test.Sdk 
+- dotnet add package xunit 
+- dotnet add package xunit.runner.visualstudio 
+- dotnet add package coverlet.collector 
+- dotnet add package Moq
 
 Add a reference of the application to the test project
-``
+
+```
 <ItemGroup>
-    <ProjectReference Include="..\TestingBasics\TestingBasics.csproj" />
-  </ItemGroup>
-  ``
+<ProjectReference Include="..\TestingBasics\TestingBasics.csproj" />
+ </ItemGroup>
+```
 
 ## Notes
 
