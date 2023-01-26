@@ -33,13 +33,13 @@ To open the csproj file:
 **Cannot Start Program because it has more than one entrypoint**
 
 1. open .csproj file
-1. Add ```<GenerateProgramFile>false</GenerateProgramFile>`` to the ``<PropertyGroup>`` section
+1. Add ```<GenerateProgramFile>false</GenerateProgramFile>``` to the ```<PropertyGroup>``` section
 
 
 Program does not contain a static 'Main' method suitable for an entry point
 
 1. open .csproj file
-1. Add ```<GenerateProgramFile>false</GenerateProgramFile>`` to the ``<PropertyGroup>`` section
+1. Add ```<GenerateProgramFile>false</GenerateProgramFile>``` to the ```<PropertyGroup>``` section
 
 
 #Knowledge Base
