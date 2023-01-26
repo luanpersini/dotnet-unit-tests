@@ -1,0 +1,12 @@
+C:\git\.Net\dotnet-unit-tests\TestingBasics\obj\Debug\net7.0\TestingBasics.csproj.AssemblyReference.cache
+C:\git\.Net\dotnet-unit-tests\TestingBasics\obj\Debug\net7.0\TestingBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\.Net\dotnet-unit-tests\TestingBasics\obj\Debug\net7.0\TestingBasics.AssemblyInfoInputs.cache
+C:\git\.Net\dotnet-unit-tests\TestingBasics\obj\Debug\net7.0\TestingBasics.AssemblyInfo.cs
+C:\git\.Net\dotnet-unit-tests\TestingBasics\obj\Debug\net7.0\TestingBasics.csproj.CoreCompileInputs.cache
+C:\git\.Net\dotnet-unit-tests\TestingBasics\bin\Debug\net7.0\TestingBasics.deps.json
+C:\git\.Net\dotnet-unit-tests\TestingBasics\bin\Debug\net7.0\TestingBasics.dll
+C:\git\.Net\dotnet-unit-tests\TestingBasics\bin\Debug\net7.0\TestingBasics.pdb
+C:\git\.Net\dotnet-unit-tests\TestingBasics\obj\Debug\net7.0\TestingBasics.dll
+C:\git\.Net\dotnet-unit-tests\TestingBasics\obj\Debug\net7.0\refint\TestingBasics.dll
+C:\git\.Net\dotnet-unit-tests\TestingBasics\obj\Debug\net7.0\TestingBasics.pdb
+C:\git\.Net\dotnet-unit-tests\TestingBasics\obj\Debug\net7.0\ref\TestingBasics.dll
